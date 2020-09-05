@@ -15,6 +15,7 @@ direct=true                    >是否直飞(不转站)true:是，false:否
 army=false		       >可加可不加
 
 实例:https://flights.ctrip.com/itinerary/api/12808/lowestPrice?flightWay=Oneway&dcity=NNG&acity=WDS&direct=true&army=false
+这个实列是南宁飞向湖北十堰的机票价格信息，返回的方式为josn。
 
 
 
