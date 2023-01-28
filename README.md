@@ -1,4 +1,4 @@
-携程的机票接口:
+机票API,携程的机票接口:
 
 https://flights.ctrip.com/itinerary/api/12808/lowestPrice?
 
