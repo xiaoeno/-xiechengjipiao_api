@@ -8,14 +8,14 @@ flightWay=Oneway               >Oneway单向飞 Roundtrip往返
 
 dcity=NNG                      >出发地（编号对应的地点看下面的tx），这里是南宁
 
-acity=WDS                      >目的地（编号对应的地点看下面的tx），这里是十堰
+acity=WUH                      >目的地（编号对应的地点看下面的tx），这里是武汉
 
 direct=true                    >是否直飞(不转站)true:是，false:否
 
 army=false		       >可加可不加
 
-实例:https://flights.ctrip.com/itinerary/api/12808/lowestPrice?flightWay=Oneway&dcity=NNG&acity=WDS&direct=true&army=false
-这个实列是南宁飞向湖北十堰的机票价格信息，返回的方式为josn。
+实例:https://flights.ctrip.com/itinerary/api/12808/lowestPrice?flightWay=Oneway&dcity=NNG&acity=WUH&direct=true&army=false
+这个实列是南宁飞向湖北武汉的机票价格信息，返回的方式为josn。
 
 
 
